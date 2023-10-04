@@ -3,13 +3,24 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
+* [Perfil Profesional](#perfil-profesional)
+* [Experiencia Laboral](#experiencia-laboral)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Habilidades y Destrezas](#habilidades-y-destrezas)
 ## Información personal
 * Nombre: José Ramos
 * Ocupación: Estudiante de Computación
 * Lugar de residencia: Guayaquil, Ecuador
-* Sitio web: ...
+* Sitio web: https://josdramo.github.io/josdramo/
+## Perfil Profesional
+Estudiante de Computación en la Escuela Superior Politécnica del Litoral con experiencia en desarrollo de software en lenguajes como Java, Python y C. Apasionado por la programación y la resolución de problemas tecnológicos. He participado en proyectos de grado y completado pasantías en el campo de la tecnología.
+## Experiencia Laboral
+**Pasantías en "Genesis Administradora de Fondos" - 2019**
+* Colaboré en la actualización y mantenimiento de equipos informáticos.
+* Proporcioné soporte técnico a los usuarios internos.
+* Trabajé con aplicaciones de hojas de cálculo en Excel.
+  
 ## Proyectos
 ### Diccionario con Árbol Trie (Java)
 * Descripción: Un diccionario implementado utilizando la estructura de datos del árbol Trie en el lenguaje Java. Este proyecto está en fase de desarrollo.
@@ -27,6 +38,14 @@ proyectos y mis intereses.
 * Ingeniería de Software.
 * Networking.
 * Resolución de problemas tecnológicos.
+
+## Habilidades y Destrezas
+* Lenguajes de Programación: Java, Python, C
+* Herramientas de Diseño: Figma
+* Manejo de Microsoft Office
+* Soporte Técnico
+* Habilidades competitivas
+* Liderazgo
 
 <!--
 **josdramo/josdramo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
