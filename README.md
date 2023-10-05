@@ -25,14 +25,32 @@ Estudiante de Computación en la Escuela Superior Politécnica del Litoral con e
 ### Diccionario con Árbol Trie (Java)
 * Descripción: Un diccionario implementado utilizando la estructura de datos del árbol Trie en el lenguaje Java. Este proyecto está en fase de desarrollo.
 * Estado: Iniciado
+#### Reconocimiento
+* Marcelo
+* Christopher Díaz
 
 ### Guayatrip (Prototipo en Figma)
 * Descripción: Prototipo de una aplicación llamada Guayatrip, diseñada en Figma. Guayatrip es una aplicación para ayudar al turismo en Guayaquil.
 * Estado: Finalizado
+#### Reconocimiento
+* Melissa Ayllon
+* Valeria Gutierrez
+* Jordan Salinas
+* Andrés Amador
 
 ### Creador de Emojis en Java
 * Descripción: Una aplicación en Java que permite crear emojis personalizados utilizando estructuras de datos. Esta aplicación está completa y funcional.
 * Estado: Finalizado
+#### Reconocimiento
+* Marcelo
+* Christopher Díaz
+
+### Aplicación de Consulta de Partidos del Mundial de Fútbol 2014
+* Participé en el desarrollo de una aplicación que permitía a los usuarios consultar información sobre los partidos del Mundial de Fútbol 2014.
+* Utilicé Java y Python para la implementación de la aplicación.
+#### Reconocimiento
+* Joshua Cobos
+* Gerson Mieles
   
 ## Intereses
 * Ingeniería de Software.
