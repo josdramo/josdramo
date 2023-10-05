@@ -13,21 +13,17 @@ proyectos y mis intereses.
 * Ocupación: Estudiante de Computación
 * Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: https://josdramo.github.io/josdramo/
+  
 ## Perfil Profesional
 Estudiante de Computación en la Escuela Superior Politécnica del Litoral con experiencia en desarrollo de software en lenguajes como Java, Python y C. Apasionado por la programación y la resolución de problemas tecnológicos. He participado en proyectos de grado y completado pasantías en el campo de la tecnología.
-## Experiencia Laboral
-**Pasantías en "Genesis Administradora de Fondos" - 2019**
-* Colaboré en la actualización y mantenimiento de equipos informáticos.
-* Proporcioné soporte técnico a los usuarios internos.
-* Trabajé con aplicaciones de hojas de cálculo en Excel.
   
 ## Proyectos
 ### Diccionario con Árbol Trie (Java)
 * Descripción: Un diccionario implementado utilizando la estructura de datos del árbol Trie en el lenguaje Java. Este proyecto está en fase de desarrollo.
 * Estado: Iniciado
 #### Reconocimiento
-* Marcelo
-* Christopher Díaz
+* Cesar Domínguez: https://github.com/CesarD25
+* Christopher Díaz: https://github.com/lnfrative
 
 ### Guayatrip (Prototipo en Figma)
 * Descripción: Prototipo de una aplicación llamada Guayatrip, diseñada en Figma. Guayatrip es una aplicación para ayudar al turismo en Guayaquil.
@@ -42,15 +38,15 @@ Estudiante de Computación en la Escuela Superior Politécnica del Litoral con e
 * Descripción: Una aplicación en Java que permite crear emojis personalizados utilizando estructuras de datos. Esta aplicación está completa y funcional.
 * Estado: Finalizado
 #### Reconocimiento
-* Marcelo
-* Christopher Díaz
+* Cesar Domínguez: https://github.com/CesarD25
+* Christopher Díaz: https://github.com/lnfrative
 
 ### Aplicación de Consulta de Partidos del Mundial de Fútbol 2014
 * Participé en el desarrollo de una aplicación que permitía a los usuarios consultar información sobre los partidos del Mundial de Fútbol 2014.
 * Utilicé Java y Python para la implementación de la aplicación.
 #### Reconocimiento
-* Joshua Cobos
-* Gerson Mieles
+* Joshua Cobos: https://github.com/LIMUNQUE
+* Gerson Mieles: https://github.com/MielesGerson
   
 ## Intereses
 * Ingeniería de Software.
@@ -59,8 +55,6 @@ Estudiante de Computación en la Escuela Superior Politécnica del Litoral con e
 
 ## Habilidades y Destrezas
 * Lenguajes de Programación: Java, Python, C
-* Herramientas de Diseño: Figma
-* Manejo de Microsoft Office
 * Soporte Técnico
 * Habilidades competitivas
 * Liderazgo
