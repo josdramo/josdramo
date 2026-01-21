@@ -59,7 +59,6 @@ Estudiante de Computación en la Escuela Superior Politécnica del Litoral con e
 * Habilidades competitivas
 * Liderazgo
 
-![](https://komarev.com/ghpvc/?username=josdramo)
 <!--
 **josdramo/josdramo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
